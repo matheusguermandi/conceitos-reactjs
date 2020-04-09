@@ -9,8 +9,9 @@ body {
 }
 
 div {
-  width: 100%;
-  margin: 20px;
+  margin: 0 auto;
+  margin-top: 15px;
+  width: 50%; 
 }
 
 div li {
@@ -28,7 +29,7 @@ button {
   border: 0;
   padding: 10px 15px;
   cursor: pointer;
-  margin-top: 15px;
+  margin-bottom: 15px;
   font-weight: bold;
   font-size: 14px;
 }
