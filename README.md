@@ -1,4 +1,8 @@
-# Desafio: Conceitos ReactJS - BootCamp GoStack 11.0
+<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
+
+<h3 align="center">
+  👨🏻‍🚀 Desafio: Conceitos React ✔️ BOOTCAMP GOSTACK 11.0 🚀
+</h3>
 
 ### Funcionalidades da aplicação
 
@@ -15,4 +19,18 @@ Para esse desafio temos os seguintes testes:
 - **`should be able to add new repository`**: Para que esse teste passe, sua aplicação deve permitir que um repositório seja adicionado ao seu backend e listado no seu frontend dentro de uma `LI`.
 
 - **`should be able to remove repository`**: Para que esse teste passe, sua aplicação deve permitir que ao clicar no botão de remover que vai estar dentro da `LI` do repositório adicionado, o item seja removido da listagem.
+
+## Instalação e execução
+
+1. Faça um clone desse repositório;</br>
+   git clone https://github.com/matheusguermandi/gostack-desafio03.git
+   
+2. Com o terminal aberto, verifique se está na pasta `gostack-desafio03`;</br>
+   Caso não esteja execute o comando `cd gostack-desafio03`
+   
+3. Execute `yarn` para realizar a instalação das dependencias;
+
+4. Execute `yarn start` para realizar a inicialização da aplicação;
+
+5. Execute `yarn test` caso queira rodar os testes automatizados.
 
