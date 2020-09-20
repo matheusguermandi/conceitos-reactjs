@@ -1,5 +1,5 @@
 <h1 align="center">
-  👨🏻‍🚀 Conceitos - ReactJS
+  👨🏻‍🚀 Conceitos - React.js
 </h1>
 
 ### 📑 Funcionalidades da aplicação 
