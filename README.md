@@ -1,8 +1,6 @@
-<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
-
-<h3 align="center">
-  👨🏻‍🚀 Desafio: Conceitos React - BOOTCAMP GOSTACK 11.0 🚀
-</h3>
+<h1 align="center">
+  👨🏻‍🚀 Conceitos - ReactJS
+</h1>
 
 ### 📑 Funcionalidades da aplicação 
 
